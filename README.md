@@ -1,3 +1,3 @@
 # Cake Class
 
-HTML, CSS, and JS
+Cake Class with HTML, CSS, and JS
